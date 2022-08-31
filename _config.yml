@@ -13,7 +13,7 @@ name                     : &name "Till Münster"
 description              : &description "Research Assistant & Ph.D. Student @ WWU, Germany"
 url                      : https://tillmuenster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tillmuenster/tillmuenster.github.io"
+repository               : "tillmuenster.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "mailto:till.muenster@wiwi.uni-muenster.de
+  email            : "till.muenster@wiwi.uni-muenster.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
